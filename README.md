@@ -1,0 +1,2 @@
+# ROB-The-Rob
+ROB is a robot simulator that uses blender. The blender scene is a maze which contains various square markers and human faces. The robot camera sends a picture of what ROB sees to a python program, which then computes his next direction. This then updates the blender scene with ROB moved one unit in the correct direction. A video is output at the end from ROB's POV and from top down. 
